@@ -3,7 +3,7 @@ a simple program to detect a round or circle object with certain color for examp
 
 1. make sure you installed opencv library
 ```
-pip install opencv
+pip install opencv-python
 ```
 2. run the program
 ```
